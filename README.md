@@ -6,5 +6,7 @@ To find the phase shift for an np system, I first use the time-independent Schr√
 Fortran program code for neutron-proton (np) scattering phase shift and total cross-section is presented using the Phase Function Method for many two-term Potentials. To use it, download the docs inside a directory linked to some Fortran IDE. I used Visual Studio 2022 to code and Gnuplot to plot.
 
 For more information about the implementation of the Phase Function and Monte Carlo methods in nuclear scattering, see (O.S.K.S. Sastri et al., 2021).
+#
+<img src="https://github.com/user-attachments/assets/76ee03cd-7b92-4ed6-95ee-5b57f7181434" width="500" />
 
-file:///C:/Users/Dell/OneDrive/Desktop/Graficas/Pot%203S1%20n.pdf
+<img src="https://github.com/user-attachments/assets/24f047f7-88fb-4b9d-ab4b-8c862f010190" width="500" />
