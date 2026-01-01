@@ -7,8 +7,4 @@ Fortran program code for neutron-proton (np) scattering phase shift and total cr
 
 For more information about the implementation of the Phase Function and Monte Carlo methods in nuclear scattering, see (O.S.K.S. Sastri et al., 2021).
 
-<embed
-  type="Pot 3S1 n/pdf"
-  src="/shared-assets/images/examples/flowers.jpg"
-  width="250"
-  height="200" />
+file:///C:/Users/Dell/OneDrive/Desktop/Graficas/Pot%203S1%20n.pdf
